@@ -2,6 +2,8 @@
 
 Este projeto implementa um sistema de Geração Aumentada por Recuperação (RAG) utilizando o modelo Gemini.
 
+🚀 App funcional: https://rag-com-gemini-2jc6z83zuzdf6hs43xeu2w.streamlit.app/
+
 ## O que é Geração Aumentada por Recuperação (RAG)?
 
 A **Geração Aumentada por Recuperação (RAG)** é uma técnica de inteligência artificial que combina modelos de recuperação de informações com modelos generativos de linguagem natural. Essa abordagem permite que sistemas de IA acessem fontes de dados externas em tempo real para gerar respostas mais precisas e contextualmente relevantes. 
